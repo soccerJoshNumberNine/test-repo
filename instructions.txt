@@ -6,4 +6,4 @@ Next:
 
 Find the directory in which your repo is stored using ls and cd
 Go to the directory and cd into your repo
-Use touch, vi, commit, etc. to make progress
+Use touch, vi, commit, etc. to make progress with your repo
